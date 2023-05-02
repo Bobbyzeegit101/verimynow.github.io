@@ -1,0 +1,1021 @@
+.agreement-image
+{
+	background-image: url("/images/services_large.png");
+	display: inline-block;
+	height: 48px;
+}
+
+.esign-agreement-box
+{
+	width: 710px;
+	margin-bottom: 26px;
+	float: left;
+	padding: 10px 5px 5px 15px;
+	border: 1px solid #cfcfcf;
+	border-radius: 5px 5px 0 0;
+	background: #ffffff;
+}
+
+.agreement-box
+{
+	height: 170px;
+	margin-bottom: 22px;
+	width: 710px;
+	float: left;
+	padding: 10px 5px 5px 15px;
+	border: 1px solid #cfcfcf;
+	border-radius: 5px 5px 0 0;
+	background: #ffffff;
+}
+
+#divDigitalAgreement .agreement-box
+{
+    height: 120px;
+}
+
+label span
+{
+	margin-left: 20px;
+}
+
+.sub-header
+{
+	padding-bottom: 14px;
+}
+
+a
+{
+	color: #007856;
+	font: 12px Arial;
+	float: none;
+}
+
+input[type="checkbox"]
+{
+	vertical-align: middle;
+	margin-right: 8px;
+}
+
+.agreement-content
+{
+	height: 100%;
+	overflow: hidden;
+}
+
+form label
+{
+	clear: both;
+}
+
+.agreement-content p
+{
+	margin-bottom: 20px;
+    font: 12px Arial;
+}
+
+#lblEsingAgreement
+{
+	padding-bottom: 0;
+	margin: 0 0 0 40px;
+}
+
+#lblRetailAgreement
+{
+	padding-bottom: 0;
+	margin: 0 0 17px 40px;
+}
+
+#divDialogConfirm button
+{
+	text-transform: inherit;
+}
+
+a:hover .printer
+{
+	background-position: 0 -720px;
+	height: 21px;
+	width: 24px;
+}
+
+/*************** Agreement */
+        #lnkAgreementPrintVersion, #lnkAgreementPrintVersionE, #lnkAgreementPrintVersionSummary
+        {
+            float: right;
+        }
+        #lnkPrintVersion
+        {
+            float: right;
+        }
+        form label span.bold
+        {
+            padding-left: 2px;
+            font-size: 14px;
+        }
+        form h3
+        {
+            clear: right;
+        }
+        .login-agreement h3.consent 
+        {
+            width: 350px;
+        }
+        form .button-lrg-pri-arr img
+        {
+            vertical-align: 1px;
+        }
+        form .button-lrg-prileft-arr img
+        {
+            vertical-align: 1px;
+        }
+        form #divDialogConfirm
+        {
+            display: none;
+        }
+        form.login-agreement 
+        {
+            padding: 26px 18px 0 20px;
+        }
+        div .checker 
+        {
+            margin-top: 1px;
+        }
+        form.login-agreement  h3:first-child
+        {
+            float: left;
+        }
+        .login-agreement .sub-header
+        {
+            clear: both;
+        }
+        form #lblErrorMsg, 
+        .login-agreement #lblErrorMsgRetail 
+        {
+            margin-left: 41px;
+        }
+        .login-agreement #lblErrorMsgRetail 
+        {
+            margin-top: -0px;
+        }
+
+        .login-agreement .help-small 
+        {
+            margin-top: 2px;
+        }
+        
+        .eStatements-small 
+        { 
+            width: 30px; 
+            margin-right: 12px; 
+            margin-left:39px; 
+            background-position: -80px -200px;
+        }
+        .login-agreement .agr-btm-block, 
+        .login-agreement .agr-btm-block h5, 
+        .login-agreement .agr-btm-section, 
+        .eStatements-small 
+        {
+            float:left;
+        }
+        .login-agreement .agr-btm-block h5
+        {
+            width:100%; 
+            margin-bottom: 15px;
+        }
+        .login-agreement .agr-btm-section 
+        {
+            width: 638px;
+            margin-bottom: 16px;
+        }
+        .login-agreement .agr-btm-section p 
+        {
+            font-size:12px;
+            font-family: Arial;
+        }
+        
+        form #lt-box
+        {
+            display:none;
+        }
+        form #btnGoStatement
+        {
+            margin-bottom:20px;
+        }
+/*************** End Agreement */
+
+/*************** Agreement Statements */
+        /* Some are reused from Agreement */
+        form.login-agreestmt
+        {
+            padding: 26px 18px 0 20px; 
+        }
+        form.login-agreestmt label
+        {
+            padding-bottom: 17px;
+        }
+/*************** End Agreement Statements */
+
+/*************** Agreement Update */
+        /* Some are reused from Agreement */
+        form.login-agrupdate
+        {
+            padding: 26px 18px 0 20px; 
+        }
+/*************** End Agreement Update */
+
+/*************** Change Passcode */
+        .login-changepass #divUser,
+        .login-changepass .form-hdr-txt,
+        .login-changepass .clear
+        {
+            clear: both;
+        }
+        .login-changepass div.freq
+        {
+            float: left;
+        }
+        
+        form.login-changepass label
+        {
+            width: 147px;
+        }
+
+        form.login-changepass i
+        {
+            width: auto;
+            margin-left: 15px;
+            position: absolute;
+        }
+        
+        .login-changepass #divUser i
+        {
+            margin: 5px 0 0 15px;
+            position: absolute;
+        }
+        form.login-changepass p
+        {
+            clear: both;
+        }
+        .login-changepass div.radio
+        {
+            float: left;
+            position: relative;
+            margin-top: -2px;
+        }
+        .login-changepass .radio-linear
+        {
+            margin-left: 10px;
+        }
+        .login-changepass .radio-linear label
+        {
+            padding: 5px 10px 17px 0;
+            width: 10px;
+        }
+        .login-changepass #divOboSection
+        {
+            display: none;
+        }
+        
+        .login-changepass .field-validation-error
+        {
+            padding-left: 157px;
+            width: 182px;
+        }
+        .login-changepass #divDialogConfirm button
+        {
+            text-transform: inherit;
+        }
+        .login-changepass #uniform-ddlPasscodeResetFrequency span
+        {
+            width: 52px;
+        }
+        .login-changepass #imgResetPasscodeHelp 
+        {
+            margin-left: 0;
+        }
+/*************** End Change Passcode */
+
+/*************** Passcode Reset */
+        .login-passreset #divStep1 label
+        {
+            width: 170px;
+        }
+        .login-passreset #divStep2 label
+        {
+            width: 156px;
+        }
+        .login-passreset #divStep3 label
+        {
+            width: 166px;
+        }
+        .login-passreset #divStep1 i
+        {
+            width: 370px;
+        }
+        .login-passreset #divStep2 i
+        {
+            width: 336px;
+           
+        }
+        .login-passreset #divStep3 i
+        {
+            width: 355px;
+        }
+        .login-passreset #divStep4 button
+        {
+            margin: 0 0 17px 250px;
+            float: none;
+        }
+        .login-passreset .radio-button-section {
+            margin-bottom: 12px;
+        }
+         .login-passreset .radio-button-section-OTP {
+            margin-bottom: 12px;
+             margin-left: 138px;
+             width: 100px;
+        }
+
+        .login-passreset .radio-button-section label
+        {
+            padding-top: 0;
+            padding-right: 12px;
+        }
+        .intro-area.intro-pcreset
+        {
+            min-height: 125px;
+        }
+        .login-passreset #divCreditCard input, 
+        .login-passreset #divCheckCard input
+        {
+            float: left;
+        }
+        .login-passreset .radio-list
+        {
+            margin-left: -2px;
+        }
+        .login-passreset #divStep2 > .radio-button-section {
+            margin-bottom: 0px;
+        }
+        .login-passreset .field-validation-error
+        {
+            margin-left: 180px;
+        }
+        .login-passreset #divOnlineBanking .field-validation-error
+        {
+            margin-left: 424px;
+        }
+        .login-passreset #divCheckCard .field-validation-error, 
+        .login-passreset #divCreditCard .field-validation-error
+        {
+            margin-left: 147px;
+        }
+        .login-passreset #divStep3 .field-validation-error
+        {
+            margin-left: 177px;
+            width: 190px;
+        }
+
+        .login-passreset .form-level-success
+        {
+            font: bold 14px Arial;
+            padding: 0 0 17px 20px;
+            margin: 8px 0 21px -21px;
+            width: 739px;
+        }
+        .login-passreset h2 span
+        {
+            vertical-align: middle;
+            margin: -8px 6px 0 0;
+        }
+        .login-passreset #divDialogConfirm button {
+            text-transform: inherit;
+        }
+        .login-passreset #uniform-ddlPasscodeResetFrequency span
+        {
+            width: 52px;
+        }
+        .page-level-message.preset
+        {
+            margin-top: 35px;
+            margin-left: 0;
+        }
+        
+        .login-passreset #divStep1,
+        .login-passreset #divStep2,
+        .login-passreset #divStep3,
+        .login-passreset #divStep4,
+        .login-passreset #buttonSection1,
+        .login-passreset #buttonSection2,
+        .login-passreset #buttonSection3
+        { 
+            display: none;
+        }
+                   
+       .login-passreset .wipeout-error-message
+       {
+           padding-bottom: 13px;
+       }
+       .login-resetques .wipeout-error-message p
+       {
+           padding-bottom: 13px
+       }
+
+        .login-passreset .cardnum
+        {
+            width: 137px;
+        }
+        .login-passreset .cardpin
+        {
+            width: 21px;
+        }
+        .login-passreset #divStep3 label + div
+        {
+            float: left;
+        }
+        form.botbord 
+        {
+             border-bottom: 1px solid #cfcfcf;
+        }
+        
+        .login-passreset #divStep1 i {
+width: 353px;
+}
+
+
+.login-passreset label {
+        clear: left;
+     padding: 5px 10px 5px 0;
+     width:170px;
+}
+
+#uniform-rdoPasscodeResetOption0, #uniform-rdoPasscodeResetOption1, #uniform-rdoPasscodeResetOption2, #uniform-rdoPasscodeResetOption3,#uniform-rdoPasscodeResetOption4
+{
+    position:relative;
+    margin-top:-4px;
+}
+
+.passcode-reset-questions > label
+{
+    text-align:right;
+}
+
+
+.login-passreset #divStep2 .field-validation-error
+{
+    margin-left:167px;
+}
+
+.login-passreset #divStep2 .passcode-reset-questions .field-validation-error
+{
+    margin-left:2px;
+}
+
+/*************** End Passcode Reset */
+
+/*************** Reset Question */
+        .login-resetques .field-validation-error
+        {
+            margin-left: 86px;
+        }
+        #divDialogConfirm button 
+        {
+            text-transform: inherit;
+        }
+        form.login-resetques input[type="text"] 
+        {
+             width: 83px;
+        }
+/*************** End Reset Question */
+
+/*************** Security Question */
+        .login-secquestion .field-validation-error
+        {
+            
+        }
+        form.login-secquestion  label {
+            width: 197px;
+            text-align: left;
+            margin-top:-4px;
+        }
+        .ad-campaign-manager
+        {
+            margin-bottom: 10px;
+        }
+        .login-secquestion .wipeout-error-message .last-item-form {
+            padding-bottom: 12px;
+        }
+/*************** End Security Question */
+
+/*************** Security Question Setup */
+        .login-secquessetup .custom-select-inner, 
+        form.login-secquessetup  input[type="text"]
+        {
+            float: left;
+        }
+        .login-secquessetup .answer-label
+        {
+             margin-left: 56px;
+            width  : auto;
+        }
+        .login-secquessetup #securityQuestions
+         {
+            float: left;
+            width: 100%;
+        }
+        .login-secquessetup .field-validation-error 
+        {
+                margin-top: -20px;
+                clear: none;
+                position: relative;
+                left: -172px;
+        }
+        .login-secquessetup .multi-column-field-error
+        {
+            margin-right: 21px;
+            padding-right: 0;
+            width:370px;
+        }
+
+        .login-secquessetup [id^= uniform-ddlSecurityQuestion] span
+        {  
+          
+            width: 466px;
+        }
+/*************** End Security Question Setup */
+
+/*************** Voluntary Agreement (Account) */
+        .volagree h3
+        {
+            clear: right;
+        }
+        #divDigitalAgreement form.volagree   
+        {
+            padding: 0 18px 0 0;
+            border: 0;
+            width: 760px;
+        }
+        form.volagree label
+        {
+            padding-bottom: 17px;
+        }
+         .volagree .agreement-box 
+        {
+             position: relative;
+             height: 120px;
+             width: 737px;
+        }
+     .volagree  .agreement-box li
+      {
+         width:650px;
+      }
+        form.volagree label span.bold {
+            padding-left: 0;
+        }
+       /* .volagree .jspPane {
+            width: 670px !important;
+        }
+         .volagree .agreement-content,.volagree .jspContainer {
+            width: 685px !important;
+            height: 170px;
+        }*/
+         .volagree .agreement-content, .volagree .jspContainer  {
+            width: 730px !important;
+            height: 120px;
+        }
+        .volagree #btnNotAccept {
+            float: right;
+        }
+        .volagree .jspTrack
+        { left: 1px;}
+/*************** End Voluntary Agreement (Account) */
+.agreement-box ol ,.esign-agreement-box ol
+{
+    font: 12px Arial;
+    float: left;
+}
+.agreement-box ol  ol,.esign-agreement-box ol ol {
+    margin-left: 24px;
+}
+.agreement-box li{
+    width: 630px;
+}
+.direct-connect-form #divStep2 .field-validation-error
+{
+    margin-left: 0;
+    }
+ form #lblRetailAgreement span.bold    
+ {
+     padding-left: 2px;
+ }
+
+.agreement-content {
+     width: 710px !important;
+            height: 170px;
+}
+
+.zelleDsaAgreement-content {
+     width: 710px !important;
+            height: 170px;
+}
+
+#dsaarea .contentlevel3 li > p {
+    float: none;
+}
+#dsaarea .dsadividerline
+{	
+	height:20px;
+	width: 630px;
+	border:none;
+	background:url("/images/header_footer.png") no-repeat 0px -360px;
+	margin:40px auto 20px auto;
+	text-align:center;
+}
+.toclevel2 li {
+    font: 12px Arial;
+    width: 630px;
+}
+#dsaarea
+{
+    width:630px;
+}
+#dsaarea .contentlevel1, #dsaarea .toclevel1 {
+    list-style-position: inside;
+}
+#dsaarea .contentlevel4 {
+    list-style-position: outside;
+}
+#dsaarea .bulletlist {
+	list-style-position: outside;
+}
+.mainbox p{
+    float: none;
+}
+.mainbox li {
+    font-size: 12px;
+    list-style: inside disc;
+    padding-left: 20px;
+}
+li p
+{
+    display:inline;
+}
+
+#dsaarea .contentlevel2 li {
+    float: left;
+}
+
+#dsaarea .contentlevel2 li p{
+    display: block;
+}
+#dsaarea.contentlevel3 li p {
+    display: inline;
+}
+
+.volagree .summaryofchangesarea {
+    width: 670px;
+}
+#dsaarea .contentlevel4{
+    float: none;
+}
+#dsaarea li p.meinline,#dsaarea .meinline {
+    display: inline;   
+}
+
+.volagree p[name='iagreetextesign'] {
+  text-align: left;
+  margin-left: 25px;
+}
+
+.volagree p[name='iagreetextesign'] > span {
+
+  margin-left: 0px;
+}
+
+.volagree #lblEsingAgreement > .checker 
+{
+    left:60px;
+}
+
+#ServiceCancellation .notify-large 
+       {
+           margin-right:6px;
+       }
+       
+       #ServiceCancellation .form-level-message
+       {
+           width:562px;
+       }
+       
+       
+        #ServiceCancellation .small-table-title-area > h2
+        {
+              display: inline-block;
+              color: #1f1f1f;
+              float: none;
+              padding: 0;
+              font: bold 14px Arial;
+              vertical-align: top;
+              margin-left:0px;
+        }
+                
+        
+        #ServiceCancellation .small-table-title-area 
+        {
+            margin-bottom:14px;
+        }
+        
+        #ServiceCancellation 
+        {
+              padding-bottom:10px;              
+        }
+        
+         #ServiceCancellation #btnReturnToAgreement
+         {
+             text-transform:none;
+         }
+        
+        
+        #ServiceCancellation .small-table-title-area .table-area-box 
+        {
+            display:block;
+            margin: 0px 0px;
+        }
+        
+         #ServiceCancellation .ul 
+         {
+             margin-left:20px;
+             padding-left:5px;
+             list-style:disc;
+         }
+         
+         #ServiceCancellation .agreement-buttons
+         {
+             margin-top:27px;
+         }
+         
+          #ServiceCancellation .form-level-message > .event-level-message
+          {
+              width:520px;
+          }
+          
+          #ServiceCancellation .lightboxfootnotes
+          {
+              
+              float:left;
+              margin-top:20px;
+          }
+          
+          #ServiceCancellation .lightboxfootnotes > p
+          {
+              font: italic 11px Arial;
+              color: #656565;
+              margin:0;
+              padding:0;
+              padding-bottom:10px;
+          }
+          
+           #ServiceCancellation .servicelistbold > li 
+           {
+               font-weight:bold;
+           }
+           
+           #lnkSummary 
+           {
+               text-decoration:underline;
+           }
+          
+ .top-padding label
+{
+    width:auto;
+    vertical-align:top;
+    padding:0 0 20px 20px;
+    float:none;
+    clear:left;
+    top:0px;
+ 
+}
+
+.esign-confirm
+{
+    padding:20px 21px 0 36px;
+    
+}
+.top-padding
+{
+    padding:20px 0;
+}
+#divDigitalAgreement #lblErrorMsgRetail {
+                margin-top: -31px;
+            }
+
+
+#uniform-IsEsignAgreement, #uniform-IsEsignEnrolled, #uniform-AgreementOption
+{
+        left: 60px;
+                    
+}
+                
+[name='iagreetextesign']
+{
+    text-align:left;
+    margin-left:25px;
+    cursor:context-menu;
+
+}
+
+.label-value[name*="SecurityQ"]{
+	max-width:80%;	
+}
+
+/*added spaces bewtween radio buttons that have helper text below*/
+[for="RememberDevice"] + .radio-list > li {
+    height: 25px;
+}
+
+span.field-validation-error[data-valmsg-for="BindDevice"] {
+    /*left: 96px;
+    top: -17px !important;*/
+    left:95px;
+}
+div#divOnlineBanking > .label-input {
+    float: none;
+}
+
+div#divOnlineBanking > .label-input + div, div#divOnlineBanking > .label-input + input[name^='SecurityAnswer'] {
+    float: left;
+    clear:both;
+}
+
+#SecurityAnswer, [for='SecurityAnswer'] {
+    float: none;
+}
+
+#SecurityAnswer {
+    display: block;
+    margin-top: 13px;
+}
+.login-secquessetup .field-validation-error[data-valmsg-for="BindDevice"]{
+	margin-left:115px !important;
+}
+
+.passcode-reset-questions {
+    margin-left: 62px;
+}
+
+.login-secquessetup > div[id^='Step']
+{
+    padding-left:38px;
+    float:none;
+}
+.login-secquessetup > div[id='Step2'][name='SecurityQ3'] {
+    padding-bottom: 18px;
+}
+
+form.login-secquessetup {
+    margin-top: -3px;
+}
+
+.login-secquessetup [id^='Step'] .field-set-bar-Info {
+ margin-left:-58px;
+}
+
+.login-secquessetup #btnContinue {
+    clear: both;
+}
+.login-passreset .wipeout-error-message:after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0px;
+    border-bottom: 1px solid #cfcfcf;
+    width: 759px;
+    margin-top: 13px;
+}
+
+ol.workflow-bar[name="SelfServiceResetSecurity"] li:first-child + li {
+    width:167px !important;
+}
+   
+form.wizard-gradient.selfsecuritywizard select + span 
+{
+    width: 470px;
+}
+
+.selfsecuritywizard #divStep3 .field-validation-error {
+   margin-left: 177px;
+    width: 239px;
+    margin-top: -64px; 
+}
+
+ol.workflow-bar[name="SelfServiceResetSecurity"]
+{
+    max-width:757px !Important;
+}
+
+.fmSelfServiceResetSecurity .radio-linear
+{    
+    margin: 1px 0 0 15px;
+}
+
+#divUIC {
+    padding-left: 50px;
+}
+
+#divUIC label[for='rdoRsaCredentialTypes0'] {
+    white-space:nowrap;
+    margin-left:20px;
+}
+
+#fmSelfServiceResetSecurity .radio-button-section {
+    margin-bottom: 6px;
+}
+
+#fmSelfServiceResetSecurity .radio-button-section label {
+    padding-top: 0;
+    padding-right: 12px;
+}
+
+#fmSelfServiceResetSecurity .radio-button-section-OTP {
+    margin-bottom: 0px;
+    margin-left: 138px;
+    width: 100px;
+}
+
+.selfsecuritywizard span.multi-column-field-error.field-validation-error {
+    float: left;
+    position: relative;
+    top: 44px;
+    width: 400px !important;
+}
+
+.selfsecuritywizard span.multi-column-field-error.field-validation-error > span {
+    
+    width: 400px !important;
+}
+
+.selfsecuritywizard #buttonSection0 {
+          display: inline-block;
+      }
+
+
+#btnSelfService
+{
+    background: #509600;
+    text-decoration: none;
+    color: #ffffff;
+    height: 32px;
+    padding: 5px 10px;
+    font: 16px CorisandeBold;
+    text-transform: capitalize;
+    border-radius: 5px;
+    border: none;
+    float: left;
+    margin: 0px 0px 0 0;
+    position: relative;
+    background: -webkit-linear-gradient(top, #69AE08, #3A8201);
+    background: -moz-linear-gradient(top,#69AE08, #3A8201);
+    background: -ms-linear-gradient(top, #69AE08, #3A8201);
+    background: -o-linear-gradient(top,#69AE08, #3A8201);
+}
+
+form[action$='SecurityQuestion'] span[data-valmsg-for="BindDevice"].field-validation-error
+{
+    position: relative !important;
+    left: 3px !important;
+    top:-25px !important;
+}
+
+form[action*='SecurityQuestionContinue'] #securityQuestions span#SecurityQuestionsHelp {
+    position: absolute;
+    left: 40px;
+    margin-top:3px;
+}
+form[action*='SecurityQuestionContinue'] .button-section {
+       margin-top:12px;
+}
+
+
+
+
+
+form[action*='SecurityQuestionContinue'] .button-section {
+       margin-top:12px;
+}
+
+a:focus{
+    text-decoration:underline;
+}
+ul#mMenu li.nav-item > a:focus{text-decoration:none!important;}
+#divOTP {
+    padding-left: 50px;
+}
+
+#divOTP label[for='rdoRsaCredentialTypes0'] {
+    white-space:nowrap;
+    margin-left:20px;
+}
+
+
+input[type="checkbox"][data-cntry]{
+    position:relative;
+    top:-2px;
+}

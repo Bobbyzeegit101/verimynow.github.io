@@ -1,0 +1,1783 @@
+.help-small-shadow
+{
+    background-position: -80px 0px;
+}
+
+.jspDrag
+{
+    background: #509600;
+}
+
+.jspDrag:hover
+{
+    background: #3a8500;
+}
+
+h2, .text-success, .module-title1, .title, .step-color, .page-help, .font-success
+{
+    color: #5e9c02;
+}
+.error-large + .event-level-message
+{
+    color: #cc3000;
+}
+
+.success-large + .event-level-message
+{
+    color: #5e9c02;
+}
+.gradient-success
+{
+    background: -webkit-linear-gradient(top, #ffffff, #d5ebab);
+    background: -moz-linear-gradient(top,#ffffff, #d5ebab);
+    background: -ms-linear-gradient(top, #ffffff, #d5ebab);
+    background: -o-linear-gradient(top,#ffffff, #d5ebab);
+    -pie-background: linear-gradient(#ffffff 10%, #d5ebab 90%);
+    border: 1px solid #afd466;
+    color: #5e9c02;
+}
+
+fieldset > legend > div
+{
+    color: #5e9c02;
+}
+
+.upper-intro-area > .current-product-date
+{
+    width: 300px;
+}
+
+.current-product-date
+{
+    visibility: hidden;
+}
+
+.module-gradient li:hover
+{
+    background-color: #e2f3bd;
+}
+
+#tblInbox tr.odd:hover
+{
+    background: #e2f3bd;
+}
+
+#tblInbox tr:hover
+{
+    background: #e2f3bd;
+}
+
+#tblOutbox tr.odd:hover
+{
+    background: #e2f3bd;
+}
+
+#tblOutbox tr:hover
+{
+    background: #e2f3bd;
+}
+
+.soft-light-gradient
+{
+    background: -webkit-linear-gradient(top, #ffffff, #d5ebab);
+    background: -moz-linear-gradient(top,#ffffff, #d5ebab);
+    background: -ms-linear-gradient(top, #ffffff, #d5ebab);
+    background: -o-linear-gradient(top,#ffffff, #d5ebab);
+    -pie-background: linear-gradient(#ffffff 10%, #d5ebab 90%);
+}
+
+table.dataTable tfoot td
+{
+    background: url("/images/table-gradient-30-R.png") repeat-x #d6ebae\9;
+    background: -webkit-linear-gradient(top, #ffffff, #d5ebab);
+    background: -moz-linear-gradient(top,#ffffff, #d5ebab);
+    background: -ms-linear-gradient(top, #ffffff, #d5ebab);
+    background: -o-linear-gradient(top,#ffffff, #d5ebab);
+    -pie-background: linear-gradient(#ffffff 10%, #d5ebab 90%);
+}
+
+.button-sm-in-tbl-arr
+{
+    background: -webkit-linear-gradient(top, #ffffff, #d5ebab);
+    background: -moz-linear-gradient(top,#ffffff, #d5ebab);
+    background: -ms-linear-gradient(top, #ffffff, #d5ebab);
+    background: -o-linear-gradient(top,#ffffff, #d5ebab);
+    -pie-background: linear-gradient(#ffffff 10%, #d5ebab 90%);
+}
+
+table.dataTable thead th
+{
+    background: -webkit-linear-gradient(top, #ffffff, #d5ebab);
+    background: -moz-linear-gradient(top,#ffffff, #d5ebab);
+    background: -ms-linear-gradient(top, #ffffff, #d5ebab);
+    background: -o-linear-gradient(top,#ffffff, #d5ebab);
+    -pie-background: linear-gradient(#ffffff 10%, #d5ebab 90%);
+}
+
+button.soft-light-gradient:hover
+{
+    background: #d5ebab;
+    background: -webkit-linear-gradient(top, #d5ebab, #ffffff);
+    background: -moz-linear-gradient(top,#d5ebab, #ffffff);
+    background: -ms-linear-gradient(top, #d5ebab, #ffffff);
+    background: -o-linear-gradient(top,#d5ebab, #ffffff);
+    -pie-background: linear-gradient(#d5ebab, #ffffff);
+}
+
+.button-sm-in-tbl-arr:hover
+{
+    background: #d5ebab;
+    background: -webkit-linear-gradient(top, #d5ebab, #ffffff);
+    background: -moz-linear-gradient(top,#d5ebab, #ffffff);
+    background: -ms-linear-gradient(top, #d5ebab, #ffffff);
+    background: -o-linear-gradient(top,#d5ebab, #ffffff);
+    -pie-background: linear-gradient(#d5ebab, #ffffff);
+}
+
+.calculator-inline
+{
+    background: #d5ebab;
+    background: -webkit-linear-gradient(top, #d5ebab, #ffffff);
+    background: -moz-linear-gradient(top,#d5ebab, #ffffff);
+    background: -ms-linear-gradient(top, #d5ebab, #ffffff);
+    background: -o-linear-gradient(top,#d5ebab, #ffffff);
+    -pie-background: linear-gradient(#d5ebab, #ffffff);
+}
+
+.service-tile
+{
+    background: #d5ebab;
+    background: -webkit-linear-gradient(top, #d5ebab 15%, #ffffff 75%);
+    background: -moz-linear-gradient(top, #d5ebab 15%, #ffffff 75%);
+    background: -ms-linear-gradient(top, #d5ebab 15%, #ffffff 75%);
+    background: -o-linear-gradient(top,#d5ebab 15%, #ffffff 75%);
+    -pie-background: linear-gradient(#d5ebab,#ffffff);
+}
+
+.soft-very-light-gradient
+{
+    background: #e2f3bd;
+    background: -webkit-linear-gradient(top, #ffffff, #e2f3bd);
+    background: -moz-linear-gradient(top,#ffffff, #e2f3bd);
+    background: -ms-linear-gradient(top, #ffffff, #e2f3bd);
+    background: -o-linear-gradient(top,#ffffff, #e2f3bd);
+    -pie-background: linear-gradient(#ffffff, #e2f3bd);
+}
+
+.qtip-default
+{
+    background: #e2f3bd;
+    background: -webkit-linear-gradient(top, #ffffff, #e2f3bd);
+    background: -moz-linear-gradient(top,#ffffff, #e2f3bd);
+    background: -ms-linear-gradient(top, #ffffff, #e2f3bd);
+    background: -o-linear-gradient(top,#ffffff, #e2f3bd);
+    -pie-background: linear-gradient(#ffffff, #e2f3bd);
+    border: 1px solid #afd466;
+}
+
+.soft-medium-gradient
+{
+    background: #cae399;
+    background: -webkit-linear-gradient(top, #f0f7dc, #cae399);
+    background: -moz-linear-gradient(top,#f0f7dc, #cae399);
+    background: -ms-linear-gradient(top, #f0f7dc, #cae399);
+    background: -o-linear-gradient(top,#f0f7dc, #cae399);
+    -pie-background: linear-gradient(#f0f7dc, #cae399);
+}
+
+.light-box
+{
+    background: #cae399;
+    background: -webkit-linear-gradient(top, #f0f7dc, #cae399);
+    background: -moz-linear-gradient(top,#f0f7dc, #cae399);
+    background: -ms-linear-gradient(top, #f0f7dc, #cae399);
+    background: -o-linear-gradient(top,#f0f7dc, #cae399);
+    -pie-background: linear-gradient(#f0f7dc, #cae399);
+}
+
+button.soft-medium-gradient:hover
+{
+    background: #d5ebab;
+    background: -webkit-linear-gradient(top, #cae399, #f0f7dc);
+    background: -moz-linear-gradient(top,#cae399, #f0f7dc);
+    background: -ms-linear-gradient(top, #cae399, #f0f7dc);
+    background: -o-linear-gradient(top,#cae399, #f0f7dc);
+    -pie-background: linear-gradient(#cae399, #f0f7dc);
+}
+
+.bold-light-gradient
+{
+    background: #afd466;
+    background: -webkit-linear-gradient(top, #F3F9E8, #D9EBB9);
+    background: -moz-linear-gradient(top, #F3F9E8, #D9EBB9);
+    background: -ms-linear-gradient(top, #F3F9E8, #D9EBB9);
+    background: -o-linear-gradient(top, #F3F9E8, #D9EBB9);
+    -pie-background: linear-gradient(#F3F9E8, #D9EBB9);
+}
+
+button.bold-light-gradient:hover
+{
+    background: #d5ebab;
+    background: -webkit-linear-gradient(top, #D9EBB9, #F3F9E8);
+    background: -moz-linear-gradient(top,#D9EBB9, #F3F9E8);
+    background: -ms-linear-gradient(top, #D9EBB9, #F3F9E8);
+    background: -o-linear-gradient(top,#D9EBB9, #F3F9E8);
+    -pie-background: linear-gradient(#D9EBB9, #F3F9E8);
+}
+
+.bold-medium-gradient
+{
+    background: #509600;
+    background: -webkit-linear-gradient(top, #69AE08, #3A8201);
+    background: -moz-linear-gradient(top,#69AE08, #3A8201);
+    background: -ms-linear-gradient(top, #69AE08, #3A8201);
+    background: -o-linear-gradient(top,#69AE08, #3A8201);
+    -pie-background: linear-gradient(#69AE08, #3A8201);
+}
+
+button.bold-medium-gradient:hover
+{
+    background: #95c633;
+    background: -webkit-linear-gradient(top, #3A8201, #69AE08);
+    background: -moz-linear-gradient(top,#3A8201, #69AE08);
+    background: -ms-linear-gradient(top, #3A8201, #69AE08);
+    background: -o-linear-gradient(top,#3A8201, #69AE08);
+    -pie-background: linear-gradient(#3A8201, #69AE08);
+}
+
+.bold-dark-gradient
+{
+    background: #004834;
+    background: -webkit-linear-gradient(top, #007856, #004834);
+    background: -moz-linear-gradient(top,#007856, #004834);
+    background: -ms-linear-gradient(top, #007856, #004834);
+    background: -o-linear-gradient(top,#007856, #004834);
+    -pie-background: linear-gradient(#007856, #004834);
+}
+
+button.bold-dark-gradient:hover
+{
+    background: #d5ebab;
+    background: -webkit-linear-gradient(top, #004834, #007856);
+    background: -moz-linear-gradient(top,#004834, #007856);
+    background: -ms-linear-gradient(top, #004834, #007856);
+    background: -o-linear-gradient(top,#004834, #007856);
+    -pie-background: linear-gradient(#004834, #007856);
+}
+
+.tile-layout
+{
+    background: url("/images/tilesR.png") no-repeat -561px -206px transparent;
+}
+
+.tile-view .bold-light-gradient
+{
+    border: 1px solid #7ab800;
+}
+
+.payment-section {
+    background: -webkit-linear-gradient(top, #f0f7dc, #cae399);
+    background: -moz-linear-gradient(top, #f0f7dc, #cae399);
+    background: -ms-linear-gradient(top, #f0f7dc, #cae399);
+    background: linear-gradient(top, #f0f7dc, #cae399);
+    background-color: #cae399;
+    border: 1px solid #7ab800;
+}
+
+.ui-tabs .ui-tabs-nav li a
+{
+    background-color: #e2f3bd;
+}
+
+.ui-tabs .ui-tabs-nav li a:hover
+{
+    background-color: #cae399;
+}
+
+.ui-tooltip, .tooltip, .qtip
+{
+    border: 1px solid #afd466;
+}
+
+.calculator-ctrl
+{
+    background-color: #a2cd4d;
+}
+
+.ui-datepicker-calendar .ui-datepicker-today
+{
+    background-color: #5e9c02;
+}
+
+.ui-state-active
+{
+    background: #e2f3bd;
+}
+
+.ui-datepicker td:hover
+{
+    background: #e2f3bd;
+}
+
+.ui-widget-header
+{
+    background: #d1e7a7;
+    background: -webkit-linear-gradient(top, #f1f8e5, #d1e7a7);
+    background: -moz-linear-gradient(top, #f1f8e5, #d1e7a7);
+    background: -ms-linear-gradient(top, #f1f8e5, #d1e7a7);
+    background: -o-linear-gradient(top, #f1f8e5, #d1e7a7);
+    -pie-background: linear-gradient(#f1f8e5, #d1e7a7);
+}
+
+.ui-datepicker
+{
+    background: url("/images/tilesR.png") no-repeat 0 -434px transparent;
+}
+
+.ui-datepicker.ui-datepicker-multi
+{
+    background: url("/images/tilesR.png") no-repeat 0 -207px transparent;
+}
+
+.ui-datepicker-trigger
+{
+    background-position: -80px -600px;
+}
+
+.ui-dialog .ui-dialog-titlebar-close
+{
+    background-position: -80px -400px;
+}
+
+.calculator-close
+{
+    background-position: -80px -400px;
+}
+
+#divIntroBoxLayout h2 span
+{
+    background-position: -180px -120px;
+}
+
+.page-help span
+{
+    background-position: -80px -160px;
+}
+
+.workflow-bar li
+{
+    background: url("/images/chevronR.png");
+    background-position: -2005px -8px;
+    color: #5e9c02;
+}
+
+.help-small
+{
+    background-position: -80px -200px;
+}
+.helpsmall-hover
+{
+    background-position: 0 -200px;
+}
+
+.square-close
+{
+    background-position: -80px -760px;
+}
+
+.square-close-legend
+{
+    background-position: -80px -760px;
+}
+
+.talk-to-us
+{
+    background-position: -80px -520px;
+}
+
+.add
+{
+    background-position: -80px -120px;
+}
+
+.bullet
+{
+    background-position: -180px -180px;
+}
+
+.printer
+{
+    background-position: -80px -720px;
+}
+
+.success-small
+{
+    background-position: -80px -40px;
+    cursor: auto;
+}
+
+.success-large
+{
+    background-position: -80px -920px;
+    cursor: auto;
+}
+
+.check-mark
+{
+    background-position: -80px -680px;
+}
+
+.check-view
+{
+    background-position: -80px -640px;
+}
+
+.table-view-icon
+{
+    background-position: -80px -240px;
+}
+
+.tile-view-icon
+{
+    background-position: -80px -280px;
+}
+
+.table-buttons
+{
+    background-position: 0px -240px;
+}
+
+.table-buttons:hover
+{
+    background-position: -60px -240px;
+}
+
+.search
+{
+    background-position: -80px -80px;
+}
+
+.search-legend
+{
+    background-position: -80px -80px;
+}
+
+.delete
+{
+    background-position: -80px -320px;
+}
+
+.delete-legend
+{
+    background-position: -80px -320px;
+}
+
+.edit
+{
+    background-position: -80px -560px;
+}
+
+.edit-legend
+{
+    background-position: -80px -560px;
+}
+
+.approve
+{
+    background-position: -80px -840px;
+}
+
+.approve-legend
+{
+    background-position: -80px -840px;
+}
+
+.mail
+{
+    background-position: -80px -880px;
+}
+
+.mail-legend
+{
+    background-position: -80px -880px;
+}
+
+.mobile
+{
+    background-position: -80px -400px;
+}
+
+.mobile-legend
+{
+    background-position: -80px -799px;
+}
+
+.remove
+{
+    background-position: -80px -440px;
+}
+
+a .calculator
+{
+    background-position: -80px -360px;
+}
+
+.show-for-sr-only {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+.snake-bar-section ul li a
+{
+    background-image: url("/images/service_snakeR.png?v=0");
+}
+
+.message-link [class^="msgs"]
+{
+    background-image: url("/images/service_snakeR.png?v=0");
+}
+
+.snake-bar-section .pipe-line
+{
+    background: url("/images/service_snakeR.png?v=0") -200px 0px;
+}
+
+.msgs
+{
+    background-position: 0px 0px;
+}
+
+.mobile-deposit
+{
+    background-position: 0px -50px;
+}
+
+.mobile-web
+{
+    background-position: 0px -100px;
+}
+
+.card-overdraft-choice
+{
+    background-position: 0px -150px;
+}
+
+.rewards
+{
+    background-position: 0px -200px;
+}
+
+.alerts
+{
+    background-position: 0px -250px;
+}
+
+/* TODO change to PFM/MX class */
+.finance-works {
+    background-position: 0px -1050px;
+}
+
+
+.snake--pfm {
+
+}
+
+.snake--pfm:hover {
+
+}
+
+.snake--pfm-enrolled {
+
+}
+
+.snake--pfm-enrolled:hover {
+
+}
+
+
+
+.credit-score
+{
+    background-position: 0px -350px;
+}
+
+.eStatements
+{
+    background-position: 0px -400px;
+}
+
+.bill-pay
+{
+    background-position: 0px -450px;
+}
+
+.custom-card
+{
+    background-position: 0px -500px;
+}
+
+.overdraft-protection
+{
+    background-position: 0px -550px;
+}
+
+.payroll-online
+{
+    background-position: 0px -600px;
+}
+
+.personal-accounts
+{
+    background-position: 0px -650px;
+}
+
+.bundle
+{
+    background-position: 0px -700px;
+}
+
+.direct-connect
+{
+    background-position: 0px -750px;
+}
+
+.msgs-exclamation
+{
+    background-position: 0px -800px;
+}
+
+.msgs-number
+{
+    background-position: 0px -850px;
+}
+
+.msgs-exclamation-unenrolled
+{
+    background-position: -100px -400px;
+}
+
+.msgs-number-unenrolled
+{
+    background-position: -100px -850px;
+}
+
+.msgs-unenrolled
+{
+    background-position: -100px 0px;
+}
+
+.mobile-deposit-unenrolled
+{
+    background-position: -100px -50px;
+}
+
+.mobile-web-unenrolled
+{
+    background-position: -100px -100px;
+}
+
+.card-overdraft-choice-unenrolled
+{
+    background-position: -100px -150px;
+}
+
+.rewards-unenrolled
+{
+    background-position: -100px -200px;
+}
+
+.alerts-unenrolled
+{
+    background-position: -100px -250px;
+}
+
+.finance-works-unenrolled
+{
+    background-position: -100px -300px;
+}
+
+/* TODO change to PFM/MX class */
+.finance-works-unenrolled {
+
+    background-position: -100px -1050px;
+}
+
+.credit-score-unenrolled
+{
+    background-position: -100px -350px;
+}
+
+.eStatements-unenrolled
+{
+    background-position: -100px -400px;
+}
+
+.bill-pay-unenrolled
+{
+    background-position: -100px -450px;
+}
+
+.custom-card-unenrolled
+{
+    background-position: -100px -500px;
+}
+
+.overdraft-protection-unenrolled
+{
+    background-position: -100px -550px;
+}
+
+.payroll-online-unenrolled
+{
+    background-position: -100px -600px;
+}
+
+.personal-accounts-unenrolled
+{
+    background-position: -100px -650px;
+}
+
+.bundle-unenrolled
+{
+    background-position: -100px -700px;
+}
+
+.direct-connect-unenrolled
+{
+    background-position: -100px -750px;
+}
+
+.services-estatements
+{
+    background-position: -80px -200px;
+}
+
+.contextual-help
+{
+    border-color: #afd466;
+}
+
+.contextual-help:before
+{
+    border-color: #afd466 transparent;
+    -moz-border-right-colors: #afd466;
+    -moz-border-left-colors: #afd466;
+}
+
+.contextual-help.left:before
+{
+    border-color: transparent #afd466;
+}
+
+.contextual-help.right:before
+{
+    border-color: transparent #afd466;
+}
+
+.contextual-help.left:after
+{
+    border-color: transparent #ecf6d9;
+}
+
+.contextual-help.right:after
+{
+    border-color: transparent #ecf6d9;
+}
+
+div.selector span
+{
+    background-position: 100% 0;
+}
+
+div.selector.hover span
+{
+    background-position: 100% -28px;
+}
+
+div.selector:hover span
+{
+    background-position: 100% -28px;
+}
+
+.colored-box
+{
+    border: 1px solid #afd566;
+}
+
+.mobile-icon
+{
+    background-position: 0px -240px;
+}
+
+.email-icon
+{
+    background-position: -78px -280px;
+}
+
+.bell
+{
+    background-position: -40px -200px;
+}
+
+.mobile-txt
+{
+    background-position: -40px -240px;
+}
+
+.mobile-app
+{
+    background-position: -80px -240px;
+}
+
+.mobile-msg
+{
+    background-position: -40px -240px;
+}
+
+.statement-intro-hero
+{
+    background: url("/images/Graphic-Estatement-Hero-R.png") no-repeat;
+}
+
+.alerts-intro-hero-img
+{
+    /*background: url("/images/Graphic-Alerts-Hero-R.jpg") no-repeat;*/
+    background: url("/images/Retail-Alerts-hero.jpg") no-repeat;
+}
+
+.list-item li:before
+{
+    background-position: -160px -640px;
+}
+
+.contextual-help ul li:before
+{
+    background-position: -160px -640px;
+}
+
+.url-name
+{
+    color: #5e9c02;
+}
+
+.mobile-marketing-product-hero
+{
+    background-image: url("/images/Graphic-Mobile-Hero-R.jpg");
+}
+
+.mobile-deposit-product-hero
+{
+    background-image: url("/images/Graphic-MCD-Upgrade-Hero-R.jpg");
+}
+
+.forward:hover
+{
+    background-position: -80px -360px;
+}
+
+.backward:hover
+{
+    background-position: -60px -360px;
+}
+
+.forward
+{
+    background-position: -180px -360px;
+}
+
+.backward
+{
+    background-position: 0px -360px;
+}
+.bill-pay-activity-large
+{
+    background-position: -320px -640px;
+}
+
+.manage-payees-large
+{
+    background-position: -320px -720px;
+}
+
+.add-payee-large
+{
+    background-position: -400px -720px;
+}
+
+.transfer-activity-large
+{
+    background-position: -720px -640px;
+}
+
+.bank-to-bank-large
+{
+    background-position: -720px -560px;
+}
+
+.credit-card-transfer-large
+{
+    background-position: -160px -720px;
+}
+
+.money-market-fund-large
+{
+    background-position: -240px -720px;
+}
+
+.ach-wire-large
+{
+    background-position: -320px -480px;
+}
+
+.another-account-large
+{
+    background-position: -720px -480px;
+}
+
+.equipment-lease-large
+{
+    background-position: -480px -720px;
+}
+.bill-pay-large
+{
+    background-position: 0px -400px;
+}
+
+.bill-pay-activity-large
+{
+    background-position: -320px -640px;
+}
+
+.alerts-large
+{
+    background-position: -80px -400px;
+}
+
+.eStatements-large
+{
+    background-position: -160px -400px;
+}
+
+.custom-card-large
+{
+    background-position: -240px -400px;
+}
+
+.rewards-large
+{
+    background-position: -320px -400px;
+}
+
+.overdraft-protection-large
+{
+    background-position: -400px -400px;
+}
+
+.overdraft-choice-large
+{
+    background-position: -480px -400px;
+}
+
+.direct-connect-large
+{
+    background-position: -560px -400px;
+}
+
+.mobile-web-large
+{
+    background-position: 0px -480px;
+}
+
+.mobile-text-large
+{
+    background-position: -80px -480px;
+}
+
+.mobile-app-large
+{
+    background-position: -160px -480px;
+}
+
+.mobile-deposit-large
+{
+    background-position: -240px -480px;
+}
+
+.ach-wire-large
+{
+    background-position: -320px -480px;
+}
+
+.remote-check-large
+{
+    background-position: -400px -480px;
+}
+
+.finance-works-large
+{
+    background-position: -560px -480px;
+
+}
+
+/* TODO: Replace with proper PFM/MX class */
+.finance-works-large
+{
+    background-position: -640px -720px;
+    width: 43px;
+}
+
+.open-account-large
+{
+    background-position: -480px -640px;
+}
+
+.credit-score-large
+{
+    background-position: 0px -560px;
+}
+
+.direct-deposit-large
+{
+    background-position: -80px -560px;
+}
+
+.bank-bank-large
+{
+    background-position: -720px -560px;
+}
+
+.activate-transfer-large
+{
+    background-position: -640px -640px;
+}
+
+.installment-loan-large
+{
+    background-position: -720px -480px;
+}
+
+.authorize-large
+{
+    background-position: -560px -640px;
+}
+
+.online-payroll-large
+{
+    background-position: -320px -560px;
+}
+
+.merchant-large
+{
+    background-position: -480px -480px;
+}
+
+.message-service
+{
+    background-position: -80px -280px;
+}
+
+.custom-card-service
+{
+    background-position: -360px -199px;
+}
+
+.credit-score-service
+{
+    background-position: 0px -280px;
+}
+
+.credit-score-title
+{
+    background-position: 0px -280px;
+}
+
+.direct-connect-service
+{
+    background-position: -280px -200px;
+}
+
+.direct-connect-title
+{
+    background-position: -280px -200px;
+}
+
+.finance-works-service
+{
+    background-position: -280px -240px;
+}
+
+.finance-works-title
+{
+    background-position: -280px -240px;
+}
+
+.personal-account-large
+{
+    background-position: -240px -560px;
+}
+
+.bundle-large
+{
+    background-position: -400px -640px;
+}
+
+.add-auth-user-large
+{
+    background-position: -720px -720px;
+}
+
+.order-replace-card-large
+{
+    background-position: -800px -640px;
+}
+
+.lost-stolen-card-large
+{
+    background-position: -800px -560px;
+}
+
+.lock-unlock-card-large
+{
+    background-position: -800px -400px;
+}
+
+.zelle-icon-large,
+.zelle-send-money-large,
+.zelle-view-activity-large,
+.zelle-request-money-large,
+.zelle-manage-settings-large
+{
+	background-position: -560px -720px;
+}
+
+.zelle-info-icon
+{
+	background-position: -315px -350px;
+}
+
+.zelle-info-icon:hover
+{
+    background-position:-315px -150px;
+}
+
+.zelle-short-name-text {
+    height: 40px;
+    width: 60px;
+    background-color: #5e9c02;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 50%;
+    font-size: 20px;
+    color:white;
+    font-family:sans-serif;
+}
+
+:root table.dataTable thead th
+{
+    background: rgb(213, 235, 171)\0/IE9;
+    -pie-background: linear-gradient(#ffffff, #d5ebab)\0/IE9;
+    behavior: url(../../Assets/pie/PIE.htc)\0/IE9;
+}
+
+:root table.dataTable tfoot td
+{
+    background: rgb(213, 235, 171)\0/IE9;
+    -pie-background: linear-gradient(#ffffff, #d5ebab)\0/IE9;
+    behavior: url(../../Assets/pie/PIE.htc)\0/IE9;
+}
+
+.grad30 thead tr th
+{
+    background: url("/images/table-gradient-30-R.png") repeat-x #d6ebae\9;
+}
+
+.grad48 thead tr th
+{
+    background: url("/images/table-gradient-48-R.png") repeat-x #d6ebae\9;
+}
+
+fieldset > legend
+{
+    border: 1px solid #5e9c02;
+}
+
+.back-to-top-btn
+{
+    background-position: 0px 0px;
+}
+
+.shortcut-list li.li-selected, .shortcut-list li:hover, .shortcut-list-items li:hover, .shortcut-list-items li.li-selected
+{
+    background: #e2f3bd;
+}
+
+.account-list .selected:after
+{
+    content: ' ';
+    position: absolute;
+    background: url("/images/form_elements_small.png") no-repeat -92px -1px;
+    display: block;
+    height: 47px;
+    width: 220px;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+#divBeyondTenMin
+{
+    margin-top: 23px;
+}
+#divBeyondTenMin p
+{
+    margin-bottom: 18px;
+}
+.float-deposit-view
+{
+    background-position: -79px -640px;
+}
+
+/* LOG OUT CSS STARTS HERE */
+
+.page-level-logout-message
+{
+    margin: 16px 0 20px 0px;
+    padding: 9px 19px 11px 19px;
+    border-radius: 5px;
+    width: 940px;
+    position: relative;
+    border: 1px solid #cfcfcf;
+}
+
+.page-level-logout-message p
+{
+    float: none;
+    display: inline-block;
+    margin-left: 6px;
+    margin-right: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #5e9c02;
+}
+
+.page-level-logout-message button
+{
+    margin-top: 0px;
+    float: none;
+}
+
+.logoutworkspace
+{
+    /* Default image for no-ad goes here */
+    background: url("/images/Sign-On-Image.jpg") no-repeat -200px 0 transparent;
+    width: 759px;
+    height: 500px;
+    border-radius: 5px;
+    border: 1px solid #cfcfcf;
+    box-shadow: 0 0 5px #cfcfcf;
+}
+
+
+/*pdf win error check display*/
+.winerror .closeicon
+{
+    background-image: url("/images/general.png");
+    background-position: -80px -400px;
+}
+
+.winerror .diologboxheader
+{
+    background-color: #cae399;
+    background: -webkit-linear-gradient(top, #f0f7dc, #cae399);
+    background: -moz-linear-gradient(top,#f0f7dc, #cae399);
+    background: -ms-linear-gradient(top, #f0f7dc, #cae399);
+    background: -o-linear-gradient(top,#f0f7dc, #cae399);
+    -pie-background: linear-gradient(#f0f7dc, #cae399);
+}
+
+#divClearedChecksError ul.list-item
+{
+    margin: auto auto 10px 30px;
+}
+
+a#imgCreditBillingAccount, a#imgCreditBillingAccountStep2
+{
+    margin-right: 6px;
+}
+
+a#lnkCustomAddon
+{
+    text-decoration: underline;
+}
+.transfers
+{
+    background-position: 0 -900px;
+}
+
+.transfers-unenrolled
+{
+    background-position: -100px -900px;
+}
+
+.transfers:hover
+{
+    background-position: -50px -900px;
+}
+
+.transfers-unenrolled:hover
+{
+    background-position: -150px -900px;
+}
+
+.zelle
+{
+	background-position: 0px -950px;
+}
+
+.zelle:hover
+{
+    background-position:-50px -950px;
+}
+
+.zelle-unenrolled
+{
+	background-position: -600px -950px;
+}
+
+.zelle-unenrolled:hover
+{
+    background-position: -650px -950px;
+}
+
+.remember_device
+{
+    padding-top: 11px;
+}
+
+.login-secquestion .field-set-bar-Info
+{
+    display: none;
+}
+
+
+
+label[for^='RememberMyDevice_RememberDevice'] > b
+{
+    vertical-align: top;
+}
+
+
+#lblOccupation
+{
+    position: relative;
+}
+
+span#imgSelfServiceHelp
+{
+    margin: 0 !important;
+}
+
+#imgSelfServiceHelp .help-small
+{
+    margin: 0;
+}
+
+span#imgSelfServiceHelp > span
+{
+    font-family: arial;
+    font-size: 12px;
+    vertical-align: 2px;
+    margin-left: 5px;
+}
+
+input#SecurityAnswer
+{
+    display: inline-block;
+}
+
+label[for="SecurityAnswer"]
+{
+    display: block;
+    width: 100% !important;
+}
+
+div#SelfServicesQuestions
+{
+    display: inline-block;
+    margin-left: 28px;
+    color: #5e9c02;
+    font-size: 12px;
+}
+
+.login-secquestion span.field-validation-error
+{
+    float: none;
+    clear: both;
+    position: absolute;
+    top: 302px;
+    left: 22px;
+}
+
+#imgSelfServiceHelp2 .help-small
+{
+    margin: 0;
+}
+
+span#imgSelfServiceHelp2 > span
+{
+    font-family: arial;
+    font-size: 12px;
+    vertical-align: 2px;
+    margin-left: 7px;
+}
+
+div#SelfServicesQuestionssubuser
+{
+    display: inline-block;
+    margin-left: 19px;
+    color: #5e9c02;
+    font-size: 12px;
+}
+
+form.complete
+{
+    border: 1px solid #cfcfcf;
+    border-top: none;
+    border-bottom: none;
+}
+
+
+label[for^='RememberMyDevice_RememberDevice'] > b
+{
+    vertical-align: top;
+}
+
+
+span#imgSelfServiceHelp
+{
+    margin: 0 !important;
+}
+
+#imgSelfServiceHelp .help-small
+{
+    margin: 0;
+}
+
+span#imgSelfServiceHelp > span
+{
+    font-family: arial;
+    font-size: 12px;
+    vertical-align: 2px;
+    margin-left: 5px;
+}
+
+input#SecurityAnswer
+{
+    display: inline-block;
+}
+
+label[for="SecurityAnswer"]
+{
+    display: block;
+    width: 100% !important;
+}
+
+div#SelfServicesQuestions
+{
+    display: inline-block;
+    margin-left: 28px;
+    color: #5e9c02;
+    font-size: 12px;
+}
+
+.login-secquestion span.field-validation-error
+{
+    float: none;
+    clear: both;
+    position: absolute;
+    top: 302px;
+    left: 22px;
+}
+
+#imgSelfServiceHelp2 .help-small .field-set-bar-Info
+{
+    margin-bottom: 8px;
+}
+
+/* BSA/AML CSS code starts here */
+#remediation-form #uniform-ddlCitizenship span, #remediation-form #uniform-ddlOccupation span
+{
+    width: 220px;
+}
+
+#remediation-form .label-input, #remediation-form label
+{
+    width: 162px;
+}
+
+#divRemediationStep2 .help-small, #divRemediationStep3 .help-small
+{
+    margin-right: -4px;
+    vertical-align: 0;
+}
+
+#divCustInfo2 .label-input .contextual-help-icon
+{
+    margin-right: 0;
+    vertical-align: 0;
+}
+#divCustInfo1 .radio-list, #divCustInfo2 .radio-list
+{
+    padding-top: 5px;
+}
+#divCustInfo1 span.field-validation-error, #divCustInfo2 span.field-validation-error
+{
+    padding: 7px 0 14px 0;
+}
+
+#divCustInfo3 span.field-validation-error
+{
+    margin-left: 172px;
+}
+
+#btnContinueOnlineBanking
+{
+    margin: 20px 0px 20px 195px;
+    float: left;
+    clear: both;
+}
+
+#lstCountry .esign-agreement-box, #lstCountry .agreement-content
+{
+    width: 260px !important;
+}
+#lstCountry .esign-agreement-box
+{
+    margin-top: 6px;
+}
+#divCustInfo3 label span
+{
+    margin-right: 0;
+}
+
+#divRemediationStep3 h3
+{
+    margin-top: 5px;
+    float: left;
+}
+
+#remediation-form .field-set-bar-Info
+{
+    border-top: 1px dotted #cfcfcf;
+    margin-top: 1px;
+}
+
+#divRemediationStep1 > .field-set-bar-Info:first-child
+{
+    border-top: 0;
+    margin-left: -20px;
+    margin-top: -16px;
+}
+
+#divRemediationStep2 .field-set-bar-Info, #divRemediationStep3 .field-set-bar-Info
+{
+    border-top: 1px dotted #cfcfcf;
+    margin-top: -16px;
+}
+
+#remediation-form #ReviewRemediationDiv2, #remediation-form #ReviewRemediationDiv3
+{
+    padding: 0 0 13px;
+}
+
+
+#divInvalidCustInfo
+{
+    margin-left: 22px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    border: 1px solid #ffd675;
+    background: -webkit-linear-gradient(top, #ffffff , #fff6e2);
+    background: -moz-linear-gradient(top, #ffffff , #fff6e2);
+    background: -ms-linear-gradient(top, #ffffff , #fff6e2);
+    padding: 12px;
+    position: relative;
+    clear: both;
+}
+
+#divInvalidCustInfo > .notification-colored-msgtext
+{
+    margin-left: 50px;
+    display: block;
+    font-size: 12px;
+    font-family: Arial;
+    color: #1f1f1f;
+}
+
+#divInvalidCustInfo > .notification-colored-msgtext:before
+{
+    content: "";
+    background-image: url("/images/general.png");
+    width: 32px;
+    height: 25px;
+    left: 15px;
+    top: 10px;
+    position: absolute;
+    background-position: -240px -720px;
+    display: block;
+}
+
+#notifybox, #divResidentAlienWarning
+{
+    border: 1px solid #ffd675;
+    background: -webkit-linear-gradient(top, #ffffff , #fff6e2);
+    background: -moz-linear-gradient(top, #ffffff , #fff6e2);
+    background: -ms-linear-gradient(top, #ffffff , #fff6e2);
+    padding: 9px 10px 21px 12px;
+    margin: 2px 15px 20px 15px;
+    position: relative;
+    clear: both;
+}
+
+#notifybox .notifytext, #divResidentAlienWarning .notifytext
+{
+    margin-left: 45px;
+    display: block;
+    font: 12px Arial;
+    color: #1f1f1f;
+}
+
+#notifybox .notifytext:before, #divResidentAlienWarning .notifytext:before
+{
+    content: "";
+    display: block;
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    width: 32px;
+    height: 25px;
+    background-position: -240px -720px;
+    background-image: url("/images/general.png");
+}
+#divRemediationStatusBar
+{
+    font-family: arial;
+}
+#remediation-form #lstCountry > i
+{
+    width: 260px;
+    top: 165px;
+}
+.lblSpace
+{
+    margin-bottom: -4px;
+}
+.field-set-bar-Info, #lblSelectedCitizenship
+{
+    margin-bottom: 13px;
+}
+/* BSA/AML CSS code Ends here */
+
+a:focus{
+    text-decoration:underline;
+}
+.ui-tabs .ui-tabs-nav li a:focus{text-decoration:none;}
+
+.editmodel {
+    background-position: -80px -560px;
+}
+.mobile-deposit-icon
+{
+    background-position: 280px 360px;
+}
+
+/*BSA AML UPDATES*/
+#remediation-form{
+    position:relative;
+}
+
+#remediation-form #imgPrimaryAddress {
+    vertical-align: 0;
+}
+
+#remediation-form #infocorrecterror{
+    margin-top:-10px;
+}
+
+#remediation-form #btnContinueOnlineBanking{
+    margin-left:200px;
+}
+
+#remediation-form .selector{
+    top:-5px;
+}
+
+#remediation-form .button-section{
+    margin-top:10px;
+}
+
+#remediation-form [data-valmsg-for="Email"],
+#remediation-form [data-valmsg-for="EmailConfirm"]{
+    margin-left: 173px;
+}
+
+#remediation-form i {
+    margin-right: 20px;
+    margin-top: 6px;
+    position: absolute;
+    top: 54px;
+    left: 490px;
+}
+
+#remediation-form #errorCitizenship {
+    position: relative;
+    left: 175px;
+}
+
+#remediation-form #divRemediationStep5>p {
+    margin-bottom: 15px;
+}
+
+#remediation-form #divRemediationStep5>p,
+#remediation-form #divRemediationStep5>p a {
+    font-weight:bold;
+}
+
+#remediation-form .is-actionmsg-area.form-level-message .event-level-message {
+    font-family:arial;
+    font-weight: bold;
+    font-size:14px;
+}
+
+#divRemediationStep4 .field-set-bar-Info {
+    background-color: white;
+    border: 0;
+}
+
+#divRemediationStep4 > p >a {
+    text-decoration: underline;
+}
+
+#remediation-form .event-level-message a {
+    margin-top: 10px;
+    display: block;
+}
+
+#divRemediationStep4 > p > b * {
+    font-weight: bold;
+}
+
+
+.settingsTable thead th
+{
+    background: -webkit-linear-gradient(top, #ffffff, #d5ebab);
+    background: -moz-linear-gradient(top,#ffffff, #d5ebab);
+    background: -ms-linear-gradient(top, #ffffff, #d5ebab);
+    background: -o-linear-gradient(top,#ffffff, #d5ebab);
+    -pie-background: linear-gradient(#ffffff 10%, #d5ebab 90%);
+}
+
